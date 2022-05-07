@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 pasta
 yogurt
 lasagna
+=======
+Your name
+A silent voice
+Gintama
+>>>>>>> movies
